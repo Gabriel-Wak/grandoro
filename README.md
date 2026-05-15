@@ -82,9 +82,3 @@ Depois rode:
 curl -H "x-admin-token: troque-este-token" http://localhost:4000/api/contacts
 ```
 
-## Próximos ajustes recomendados
-
-1. Exportar imagens reais do Figma em alta qualidade e substituir os arquivos em `frontend/src/assets`.
-2. Ajustar textos finais, WhatsApp e telefone.
-3. Trocar SQLite por PostgreSQL/MySQL se o projeto for para produção.
-4. Publicar frontend na Vercel/Netlify e backend em Render/Railway/Fly.io.
