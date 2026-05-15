@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "lucide-react": "^1.14.0",
+    "sqlite3": "latest"
+  }
+}
