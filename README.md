@@ -79,6 +79,6 @@ ADMIN_TOKEN=wak
 Depois rode:
 
 ```bash
-curl -H "x-admin-token: troque-este-token" http://localhost:4000/api/contacts
+curl -H "x-admin-token:wak" http://localhost:4000/api/contacts
 ```
 
